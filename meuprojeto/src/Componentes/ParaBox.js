@@ -1,6 +1,11 @@
-function ParaBox(){
+
+function ParaBox({nome, idade, profissao }){
     return(
-        <div>Com Deus e contra o mundo</div>
+        <div>
+            <p>Nome: {nome}</p>
+            <p>idade: {idade}</p>
+            <p>profissão: {profissao}</p>
+        </div>
     )
 }
 
