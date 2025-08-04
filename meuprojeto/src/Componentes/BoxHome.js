@@ -3,8 +3,8 @@ import ParaBox from './ParaBox';
 function BoxHome(){
     return(
         <div>
-            <p>Você é pika meu irmão</p>
-            <ParaBox />
+            <p>Você é fera meu irmão</p>
+            
         </div>
     )
 }
